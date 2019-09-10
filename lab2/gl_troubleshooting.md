@@ -4,7 +4,7 @@
 
 ### Using a Mac (or any Linux machine)
 1. Open the Terminal (I use Spotlight Search because it's super quick: `cmd + space`, then search for Terminal)
-2. Use this command: `ssh username@gl.umbc.edu` hint: username is your UMBC username (mine is agatha3). After the command has ran successfully, you'll see this message:  
+2. Use this command: `ssh username123@gl.umbc.edu` hint: username123 is your UMBC username. After the command has ran successfully, you'll see this message:  
 ```
 WARNING: UNAUTHORIZED ACCESS to this computer is in violation of Criminal Law
          Article section 8-606 and 7-302 of the Annotated Code of MD.
@@ -25,7 +25,7 @@ itself)”, click on the “64-bit: putty.exe” link to download the “putty.e
 computer. Make sure to choose a location that you will remember
 2. Open the `putty.exe` file to install it
 3. Once PuTTy is installed, type `gl.umbc.edu` into the Hostname text field
-4. It will prompt you for your username, type in your UMBC username and ***nothing else***. For example, my username is agatha3, so I would type in agatha3.
+4. It will prompt you for your username, type in your UMBC username and ***nothing else***. For example, if my username was user123, I would type in user123.
 5. It will prompt you for your password, enter it. Even though it won't indicate that you're typing, it's getting your input.
 6. Once you're logged in successfully, you should see something like this: `[username@linux1 ~]`
 
