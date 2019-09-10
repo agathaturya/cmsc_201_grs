@@ -1,4 +1,4 @@
-# GL Cheatsheet!
+# GL Cheatsheet :sparkles: :sparkles: :sparkles:
 
 ## How to login to GL
 
