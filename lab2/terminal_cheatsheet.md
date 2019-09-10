@@ -11,7 +11,7 @@
 3. Go to Profiles :arrow_right: Keyboard :arrow_right: check "Use Option as Meta key"
 4. Option is now your Meta key in Terminal
 
-`tab`: autocompletes file and directory names
+`tab`: autocompletes file and directory names  
 `cd`: goes to home directory   
 `cd ..`: goes up one directory   
 `cd directory_name`: move to directory called `directory_name`   
