@@ -3,7 +3,7 @@
 ### Here are some super useful commands that are **really** helpful to know! Let me know if you find/know of any commands I should add
 
 ## Which key is the Meta key?
-#### Windows :arrow_right: Alt
+#### Windows: Alt
 #### Mac: **Read Me!!**
 **all of this is optional, because you can copy and paste directly in Terminal using `cmd + c`, `cmd + v`, etc., and your mouse/cursor. However, the tabs/spacing might (read: will) get wonky if you use `cmd + c`, `cmd + v`, etc. To avoid that, you can set the Option key as your Meta key**
 1. Open Terminal
