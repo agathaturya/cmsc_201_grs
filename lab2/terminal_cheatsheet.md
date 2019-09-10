@@ -12,21 +12,21 @@
 4. Option is now your Meta key in Terminal
 
 `tab`: autocompletes file and directory names
-`cd`: goes to home directory
-`cd ..`: goes up one directory
-`cd directory_name`: move to directory called `directory_name`
-`pwd`: prints file path of current directory
-`ls`: prints contents of current directory]
-`ls -a`: prints **all** contents of directory (**hidden** and unhidden contents)
-`rmdir directory_name`: removes **empty** directory
-`clear`: "clears" the terminal (past commands/content will still be there if you scroll up)
-`cmd + k` (can use on mac, **not windows**): ***actually*** clears the terminal (literally **completely** clears the screen, gets rid of everything printed previously)
-`ctrl + k`: kills (cuts) line after cursor (can paste this line)
-`ctrl + _`: undo
-`ctrl + g`: redo
-`ctrl + space`: highlights a region of text
-`ctrl + w`: kills (cuts) selected region of text
-`Meta + w`: copy
-`ctrl + y`: paste (yank)
-`ctrl + c`: stops whatever you're running
-`up arrow`: select past command
+`cd`: goes to home directory   
+`cd ..`: goes up one directory   
+`cd directory_name`: move to directory called `directory_name`   
+`pwd`: prints file path of current directory   
+`ls`: prints contents of current directory]   
+`ls -a`: prints **all** contents of directory (**hidden** and unhidden contents)   
+`rmdir directory_name`: removes **empty** directory   
+`clear`: "clears" the terminal (past commands/content will still be there if you scroll up)   
+`cmd + k` (can use on mac, **not windows**): ***actually*** clears the terminal (literally **completely** clears the screen, gets rid of everything printed previously)   
+`ctrl + k`: kills (cuts) line after cursor (can paste this line)   
+`ctrl + _`: undo   
+`ctrl + g`: redo   
+`ctrl + space`: highlights a region of text   
+`ctrl + w`: kills (cuts) selected region of text   
+`Meta + w`: copy   
+`ctrl + y`: paste (yank)   
+`ctrl + c`: stops whatever you're running   
+`up arrow`: select past command   
