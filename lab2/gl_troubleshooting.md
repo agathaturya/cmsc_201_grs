@@ -14,7 +14,7 @@
 down to “Alternative binary files”. Under “putty.exe (the SSH and Telnet client
 itself)”, click on the “64-bit: putty.exe” link to download the “putty.exe” file to your
 computer. Make sure to choose a location that you will remember
-2. Open the '''putty.exe''' file to install it
+2. Open the ''' putty.exe ''' file to install it
 3. Once PuTTy is installed, type gl.umbc.edu into the Hostname text field
 4. It will prompt you for your username, type in your UMBC username and ***nothing else*** For example, my username is agatha3, so I would type in agatha3.
 5. It will prompt you for your password, enter it. Even though it won't indicate that you're typing, it's getting your input.
