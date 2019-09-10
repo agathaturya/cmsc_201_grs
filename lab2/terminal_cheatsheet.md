@@ -19,6 +19,7 @@
 `ls`: prints contents of current directory]   
 `ls -a`: prints **all** contents of directory (**hidden** and unhidden contents)   
 `rmdir directory_name`: removes **empty** directory   
+`mkdir directory_name`: creates a new, empty directory called directory_name   
 `clear`: "clears" the terminal (past commands/content will still be there if you scroll up)   
 `cmd + k` (can use on mac, **not windows**): ***actually*** clears the terminal (literally **completely** clears the screen, gets rid of everything printed previously)   
 `ctrl + k`: kills (cuts) line after cursor (can paste this line)   
