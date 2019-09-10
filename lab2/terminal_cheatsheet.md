@@ -1,8 +1,8 @@
 # (Linux) Terminal Cheatsheet :sparkles:
 
-## Here are some super useful commands that are **really** helpful to know! Let me know if you find/know of any commands I should add
+### Here are some super useful commands that are **really** helpful to know! Let me know if you find/know of any commands I should add
 
-### Which key is the Meta key?
+## Which key is the Meta key?
 #### Windows :arrow_right: Alt
 #### Mac: **Read Me!!**
 **all of this is optional, because you can copy and paste directly in Terminal using `ctrl + c`, `ctrl + v`, etc., and your mouse/cursor. However, the tabs/spacing might get wonky, and if you don't want to use those commands, you can set your Meta key as the Option key**
@@ -10,7 +10,7 @@
 2. Open Terminal Preferences (` cmd + , `)
 3. Go to Profiles :arrow_right: Keyboard :arrow_right: check "Use Option as Meta key"
 4. Option is now your Meta key in Terminal
-
+# Commands
 `tab`: autocompletes file and directory names  
 `cd`: goes to home directory   
 `cd ..`: goes up one directory   
