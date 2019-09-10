@@ -1,4 +1,4 @@
-# CMSC 201 GRS Material
+# CMSC 201 GRS Material (Section 32)
 I'll upload all my material (slides, live-coding, practice problems, etc) here before or after GRS
 
 ## General things
