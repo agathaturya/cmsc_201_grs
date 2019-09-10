@@ -15,7 +15,11 @@ NOTICE:  This system is for the use of authorized users only. Individuals using
          monitored and recorded by system personnel.
 ```
 3. It will prompt you for your password, enter it. Even though it won't indicate that you're typing, it's getting your input
-4. Once you're logged in successfully, you should see something like this: `[username123@linux1 ~]`
+4. Once you're logged in successfully, you should see something like this: 
+```
+Last login: Tue Apr 20 01:23:45 2019 from 123.45.67.890
+[username123@linux1 ~]
+```
 
 
 ### Using Windows
