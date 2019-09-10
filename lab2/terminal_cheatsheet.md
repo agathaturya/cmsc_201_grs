@@ -5,7 +5,7 @@
 ## Which key is the Meta key?
 #### Windows :arrow_right: Alt
 #### Mac: **Read Me!!**
-**all of this is optional, because you can copy and paste directly in Terminal using `ctrl + c`, `ctrl + v`, etc., and your mouse/cursor. However, the tabs/spacing might get wonky, and if you don't want to use those commands, you can set your Meta key as the Option key**
+**all of this is optional, because you can copy and paste directly in Terminal using `ctrl + c`, `ctrl + v`, etc., and your mouse/cursor. However, the tabs/spacing might (read: will) get wonky if you use `ctrl + c`, `ctrl + v`, etc. To avoid that, you can set the Option key as your Meta**
 1. Open Terminal
 2. Open Terminal Preferences (` cmd + , `)
 3. Go to Profiles :arrow_right: Keyboard :arrow_right: check "Use Option as Meta key"
