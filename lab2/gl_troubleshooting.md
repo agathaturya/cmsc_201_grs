@@ -4,7 +4,14 @@
 
 ### Using a Mac (or any Linux machine)
 1. Open the Terminal (I use Spotlight Search because it's super quick: `cmd + space`, then search for Terminal)
-2. Use this command: `ssh username@gl.umbc.edu` hint: username is your UMBC username (mine is agatha3)
+2. Use this command: `ssh username@gl.umbc.edu` hint: username is your UMBC username (mine is agatha3). After the command has ran successfully, you'll see this message:  
+`WARNING: UNAUTHORIZED ACCESS to this computer is in violation of Criminal Law
+         Article section 8-606 and 7-302 of the Annotated Code of MD.
+
+NOTICE:  This system is for the use of authorized users only. Individuals using
+         this computer system without authority, or in excess of their authority
+         , are subject to having all of their activities on this system
+         monitored and recorded by system personnel.`  
 3. It will prompt you for your password, enter it. Even though it won't indicate that you're typing, it's getting your input
 4. Once you're logged in successfully, you should see something like this: `[username@linux1 ~]`
 
