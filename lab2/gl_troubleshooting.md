@@ -31,7 +31,12 @@ computer. Make sure to choose a location that you will remember
 3. Once PuTTy is installed, type `gl.umbc.edu` into the Hostname text field
 4. It will prompt you for your username, type in your UMBC username and ***nothing else***. For example, if my username was user123, I would type in user123.
 5. It will prompt you for your password, enter it. Even though it won't indicate that you're typing, it's getting your input.
-6. Once you're logged in successfully, you should see something like this: `[username@linux1 ~]`
+6. Once you're logged in successfully, you should see something like this:
+
+```
+Last login: Tue Apr 20 01:23:45 2019 from 123.45.67.890
+[user123@linux1 ~]
+```
 
 ## Troubleshooting
 1. Check that you're connected to internet
