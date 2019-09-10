@@ -9,7 +9,7 @@
 1. Open Terminal
 2. Open Terminal Preferences (` cmd + , `)
 3. Go to Profiles :arrow_right: Keyboard :arrow_right: check "Use Option as Meta key"
-4. Option is now your Meta key in Terminal
+
 # Commands
 `tab`: autocompletes file and directory names  
 `cd`: goes to home directory   
