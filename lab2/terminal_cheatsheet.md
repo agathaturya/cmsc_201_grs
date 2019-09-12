@@ -31,3 +31,4 @@
 `ctrl + y`: paste (yank)   
 `ctrl + c`: stops whatever you're running   
 `up arrow`: select past command   
+`cp file_i_want_to_copy new_file_name`: copies `file_i_want_to_copy` into current directory, renames it to `new_file_name`. if you don't want to rename the file, replace `new_file_name` with `.`
