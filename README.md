@@ -6,4 +6,6 @@ I'll upload all my material (slides, live-coding, practice problems, etc) here b
 [Command Cheatsheet](https://github.com/agathaturya/cmsc_201_grs/blob/master/lab2/terminal_cheatsheet.md)
 
 ## [Lab 2 GRS](https://github.com/agathaturya/cmsc_201_grs/tree/master/lab2)
-Went over some GL related stuff, did a live-coding example
+Went over some GL related stuff, did a live-coding example  
+
+## Lab 3 GRS
