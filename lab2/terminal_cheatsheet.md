@@ -51,7 +51,7 @@
 `mv file_to_be_moved destination`: moves `directory_to_be_moved` to `destination`. **note**: `destination` can be a **file** *or* **directory**. note: remember to put appropriate file ending   
 `ctrl + x` `ctrl + c`: save and exit emacs file  
 `ctrl + x`: save emacs file  
-`ctrl + c`: exit emacs file **without saving**. you may have to press `y` or type `yes` to "force exit" . 
+`ctrl + c`: exit emacs file **without saving**. you may have to press `y` or type `yes` to "force exit"   
 
 ## Vim
 ### note: do _**not**_ use vim unless you know how to use vim
