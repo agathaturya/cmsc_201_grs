@@ -54,7 +54,7 @@
 `ctrl + c`: exit emacs file **without saving**. you may have to press `y` or type `yes` to "force exit"   
 
 ## Vim
-### note: do _**not**_ use vim unless you know how to use vim
-`:w`: save
+### note: do _**not**_ use vim unless you know how to use vim  
+`:w`: save  
 `:wq` or `:x`: save and exit
 
