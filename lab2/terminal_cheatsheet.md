@@ -5,7 +5,7 @@
 ## Which key is the Meta key?
 #### Windows: Alt
 #### Mac: **Read Me!!**
-**all of this is optional, because you can copy and paste directly in Terminal using `cmd + c`, `cmd + v`, etc., and your mouse/cursor. However, the tabs/spacing might (read: will) get wonky if you use `cmd + c`, `cmd + v`, etc. To avoid that, you can set the Option key as your Meta key**
+**setting up a Meta key is optional, because you can copy and paste directly in Terminal using `cmd + c`, `cmd + v`, etc., and your mouse/cursor. However, the tabs/spacing might (read: will) get wonky if you use `cmd + c`, `cmd + v`, etc. To avoid that, you can set the Option key as your Meta key**
 1. Open Terminal
 2. Open Terminal Preferences (` cmd + , `)
 3. Go to Profiles :arrow_right: Keyboard :arrow_right: check "Use Option as Meta key"
@@ -31,4 +31,5 @@
 `ctrl + y`: paste (yank)   
 `ctrl + c`: stops whatever you're running   
 `up arrow`: select past command   
-`cp file_i_want_to_copy new_file_name`: copies `file_i_want_to_copy` into current directory, renames it to `new_file_name`. if you don't want to rename the file, replace `new_file_name` with `.`
+`cp file_i_want_to_copy new_file_name`: copies `file_i_want_to_copy` into current directory, renames it to `new_file_name`. if you don't want to rename the file, replace `new_file_name` with `.`  
+`curl -O "my-file-url.com/file_name.txt"`: downloads file from given URL into current directory, filename remains the same
