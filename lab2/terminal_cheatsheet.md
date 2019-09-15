@@ -32,4 +32,6 @@
 `ctrl + c`: stops whatever you're running   
 `up arrow`: select past command   
 `cp file_i_want_to_copy new_file_name`: copies `file_i_want_to_copy` into current directory, renames it to `new_file_name`. if you don't want to rename the file, replace `new_file_name` with `.`  
-`curl -O "my-file-url.com/file_name.txt"`: downloads file from given URL into current directory, filename remains the same
+`curl -O "my-file-url.com/file_name.txt"`: downloads file from given URL into current directory, filename remains the same  
+`touch my_file`: creates an empty file called my_file in current directory. note: remember to put appropriate file name (if needed)
+`emacs my_file`: opens a file called my_file. if my_file doesn't exist, it creates an empty file and opens it in emacs. if you **_don't_** edit an empty file that was created via the `emacs` command, **the (empty) file will be deleted!!!**
