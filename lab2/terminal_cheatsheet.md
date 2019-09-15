@@ -46,12 +46,12 @@
 ## Modifying and creating files
 `cp file_i_want_to_copy new_file_name`: copies `file_i_want_to_copy` into current directory, renames it to `new_file_name`. if you don't want to rename the file, replace `new_file_name` with `.`  
 `curl -O "my-file-url.com/file_name.txt"`: downloads file from given URL into current directory, filename remains the same  
-`touch my_file`: creates an empty file called my_file in current directory. note: remember to put appropriate file name (if needed)
-`emacs my_file`: opens a file called my_file. if my_file doesn't exist, it creates an empty file and opens it in emacs. if you **_don't_** edit an empty file that was created via the `emacs` command, **the (empty) file will be deleted!!!**
-`mv file_to_be_moved destination`: moves `directory_to_be_moved` to `destination`. **note**: `destination` can be a **file** *or* **directory**
-`ctrl + x` `ctrl + c`: save and exit emacs file
-`ctrl + x`: save emacs file
-`ctrl + c`: exit emacs file **without saving**. you may have to press `y` or type `yes` to "force exit"
+`touch my_file`: creates an empty file called my_file in current directory. note: remember to put appropriate file name (if needed)  
+`emacs my_file`: opens a file called my_file. if my_file doesn't exist, it creates an empty file and opens it in emacs. if you **_don't_** edit an empty file that was created via the `emacs` command, **the (empty) file will be deleted!!!**  
+`mv file_to_be_moved destination`: moves `directory_to_be_moved` to `destination`. **note**: `destination` can be a **file** *or* **directory** . 
+`ctrl + x` `ctrl + c`: save and exit emacs file  
+`ctrl + x`: save emacs file  
+`ctrl + c`: exit emacs file **without saving**. you may have to press `y` or type `yes` to "force exit" . 
 
 ## Vim
 ### note: do _**not**_ use vim unless you know how to use vim
