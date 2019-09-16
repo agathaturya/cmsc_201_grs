@@ -12,3 +12,4 @@ I'll upload all my material (slides, live-coding, practice problems, etc) here b
 Went over some GL related stuff, did a live-coding example  
 
 ## Lab 3 GRS
+[If-statements practice](https://github.com/agathaturya/cmsc_201_grs/blob/master/practice/output_practice.md)
