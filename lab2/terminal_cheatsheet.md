@@ -16,10 +16,10 @@
 `tab`: autocompletes file and directory names  
 `cd`: goes to home directory   
 `cd ..`: goes up one directory   
-`cd directory_name`: move to directory called `directory_name`
-`pwd`: prints file path of current directory 
+`cd directory_name`: move to directory called `directory_name`  
+`pwd`: prints file path of current directory  
 `ls`: prints contents of current directory]   
-`ls -a`: prints **all** contents of directory (**hidden** and unhidden contents) 
+`ls -a`: prints **all** contents of directory (**hidden** and unhidden contents)  
 
 ## Modifying directories
 `rmdir directory_name`: removes **empty** directory called `directory_name`   
