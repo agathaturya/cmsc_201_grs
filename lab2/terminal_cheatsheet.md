@@ -35,7 +35,7 @@
 `whoami`: prints current user
 
 ## Copying, cutting, and pasting
-`ctrl + k`: kills (cuts) line after cursor (can paste this line)   
+`ctrl + k`: kills (cuts) line after cursor (can yank this line after using this command)   
 `ctrl + _`: undo   
 `ctrl + g`: redo   
 `ctrl + space`: highlights a region of text   
