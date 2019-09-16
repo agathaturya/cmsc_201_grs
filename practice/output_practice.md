@@ -1,6 +1,6 @@
 # If-statements Practice Problems
 
-1. Ask the user for how much money they spent this week. If they spent less than $0, print `"smells like broke in here!!"`. If they spent $0, print `"don't you have bills to pay?"`. If they spent greater than $0 and up to and including (inclusive) $100, print `"you are wise with your money"`. Otherwise, print `"you're a big spender!"`.     
+**1.** Ask the user for how much money they spent this week. If they spent less than $0, print `"smells like broke in here!!"`. If they spent $0, print `"don't you have bills to pay?"`. If they spent greater than $0 and up to and including (inclusive) $100, print `"you are wise with your money"`. Otherwise, print `"you're a big spender!"`.     
 **Sample output**  
 ```
 [agatha3@linux6 lab3] python3 prob1.py
@@ -19,7 +19,7 @@ How much money did you spend this week?
 you are great at budgeting!!
 ```
 
-2. Ask the user for their favorite number. If the number is divisible by 2, print `"you really like even numbers."` If the number is 13, print `"cursed number!"`. If the number is odd, print `"you are very odd!"`. If the number is 666, print 
+**2.** Ask the user for their favorite number. If the number is divisible by 2, print `"you really like even numbers."` If the number is 13, print `"cursed number!"`. If the number is odd, print `"you are very odd!"`. If the number is 666, print 
 `"that's the devils number!!"`.  
 **Sample output**  
 ```
@@ -53,7 +53,7 @@ you are very odd!
 ```
 
 **Challenge Problem**  
-3. Write a program that takes in a user's birth month and birthday, and prints out their zodiac sign. Make sure the months and dates are valid!. If the user's birthday is invalid, print `your birthday is invalid, can't get zodiac sign`.  These are the corresponding dates and signs.    
+**3.** Write a program that takes in a user's birth month and birthday, and prints out their zodiac sign. Make sure the months and dates are valid!. If the user's birthday is invalid, print `your birthday is invalid, can't get zodiac sign`.  These are the corresponding dates and signs.    
 
 ```
 Virgo: August 24 – September 22
