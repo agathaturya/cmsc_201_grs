@@ -65,7 +65,7 @@ Gemini: May 22 – June 21
 Cancer:  June 22 – July 22
 Leo: July 23 – August 23
 ```
-**Sample output**
+**Sample output**  
 ```
 [agatha3@linux6 lab3] python3 prob3.py
 enter your birth month
