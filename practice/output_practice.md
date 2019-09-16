@@ -28,19 +28,23 @@ what's your favorite number?
 666
 you really like even numbers.
 that's the devils number!!
+
 [agatha3@linux6 lab3] python3 prob2.py
 what's your favorite number?
 13
 cursed number!
 you are very odd!
+
 [agatha3@linux6 lab3] python3 prob2.py
 what's your favorite number?
 72
 you really like even numbers.
+
 [agatha3@linux6 lab3] python3 prob2.py
 what's your favorite number?
 86
 you really like even numbers.
+
 [agatha3@linux6 lab3] python3 prob2.py
 what's your favorite number?
 33
@@ -73,35 +77,39 @@ enter your birth month
 enter your birth date
 24
 you're a gemini!
+
 [agatha3@linux6 lab3] python3 prob3.py
 enter your birth month
 10
 enter your birth date
 14
 you're a libra!
+
 [agatha3@linux6 lab3] python3 prob3.py
 enter your birth month
 2
 enter your birth date
 31
 birth date is invalid!
+
 [agatha3@linux6 lab3] python3 prob3.py
 enter your birth month
 18
 enter your birth date
 46
 Birth month is invalid!
+
 [agatha3@linux6 lab3] python3 prob3.py
 enter your birth month
 87
 enter your birth date
 45
 Birth month is invalid!
+
 [agatha3@linux6 lab3] python3 prob3.py
 enter your birth month
 1
 enter your birth date
 1
 you're a capricorn!
-[agatha3@linux6 lab3]
 ```
