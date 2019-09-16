@@ -22,8 +22,8 @@
 `ls -a`: prints **all** contents of directory (**hidden** and unhidden contents) 
 
 ## Modifying directories
-`rmdir directory_name`: removes **empty** directory   
-`mkdir directory_name`: creates a new, empty directory called directory_name  
+`rmdir directory_name`: removes **empty** directory called `directory_name`   
+`mkdir directory_name`: creates a new, empty directory called `directory_name`  
 `mv directory_to_be_moved destination_directory`: moves `directory_to_be_moved` to `destination_directory`  
 
 ## "Shortcuts" and misc.
