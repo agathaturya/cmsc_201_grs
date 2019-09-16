@@ -23,8 +23,8 @@
 
 ## Modifying directories
 `rmdir directory_name`: removes **empty** directory   
-`mkdir directory_name`: creates a new, empty directory called directory_name 
-`mv directory_to_be_moved destination_directory`: moves `directory_to_be_moved` to `destination_directory`
+`mkdir directory_name`: creates a new, empty directory called directory_name  
+`mv directory_to_be_moved destination_directory`: moves `directory_to_be_moved` to `destination_directory`  
 
 ## "Shortcuts" and misc.
 `clear`: "clears" the terminal (past commands/content will still be there if you scroll up)  
