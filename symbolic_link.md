@@ -1,6 +1,6 @@
 # Symbolic Links
 ## What is a symbolic link?
-A **symbolic link** is a pointer (aka a shortcut, alias, etc) to a directory
+A **symbolic link** is a pointer (a.k.a. a shortcut, alias, etc) to a **location** in a linux file system. A location can be a file **_or_** a directory.
 
 ## Why use them?
 Make your life _so_ much easier when typing in long directory names
