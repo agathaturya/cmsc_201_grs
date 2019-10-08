@@ -3,7 +3,9 @@ I'll upload all my material (slides, live-coding, practice problems, etc) here b
 
 ## General things
 [GL Troubleshooting](https://github.com/agathaturya/cmsc_201_grs/blob/master/lab2/gl_troubleshooting.md)  
-[Command Cheatsheet](https://github.com/agathaturya/cmsc_201_grs/blob/master/lab2/terminal_cheatsheet.md)
+[Command Cheatsheet](https://github.com/agathaturya/cmsc_201_grs/blob/master/lab2/terminal_cheatsheet.md)  
+[Creating a Symbolic Link for GRS activites](https://github.com/agathaturya/cmsc_201_grs/blob/master/symbolic_link/symbolic_link.md)
+
 
 ## [Practice Problems](https://github.com/agathaturya/cmsc_201_grs/blob/master/practice)
 [If-statements practice](https://github.com/agathaturya/cmsc_201_grs/blob/master/practice/output_practice.md)
@@ -17,5 +19,3 @@ Went over some GL related stuff, did a live-coding example
 ## [Lab 4 GRS](https://github.com/agathaturya/cmsc_201_grs/tree/master/lab4)
 
 ## [Lab 5 GRS](https://github.com/agathaturya/cmsc_201_grs/tree/master/lab5)
-
-## [Creating a Symbolic Link for GRS activites (aka a shortcut)](https://github.com/agathaturya/cmsc_201_grs/blob/master/symbolic_link/symbolic_link.md)
