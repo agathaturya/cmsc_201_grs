@@ -5,7 +5,7 @@ A **symbolic link** is a _pointer_ (aka a shortcut, alias, etc) to a **location*
 ![Symbolic Link](phonto.PNG)
 
 ## Why use them?
-Make your life _so_ much easier when typing in long directory names. If I create a symbolic link to my directory `/afs/umbc.edu/users/a/g/agatha3/pub/201_grs` called `grs_activities`, I no longer have to type in the whole entire directory name; I can just use my symbolic link `grs_activities` instead.
+Symbolic links make your life _so_ much easier when typing in long directory names. If I create a symbolic link to my directory `/afs/umbc.edu/users/a/g/agatha3/pub/201_grs` called `grs_activities`, I no longer have to type in the whole entire directory name; I can just use my symbolic link `grs_activities` instead.
 
 ## Creating a symbolic link to my 201 GRS Directory
 1. Run this command in your home directory:  
