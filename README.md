@@ -18,4 +18,4 @@ Went over some GL related stuff, did a live-coding example
 
 ## [Lab 5 GRS](https://github.com/agathaturya/cmsc_201_grs/tree/master/lab5)
 
-## [Creating a Symbolic Link for GRS activites (aka a shortcut)](https://github.com/agathaturya/cmsc_201_grs/blob/master/symbolic_link.md)
+## [Creating a Symbolic Link for GRS activites (aka a shortcut)](https://github.com/agathaturya/cmsc_201_grs/blob/master/symbolic_link/symbolic_link.md)
