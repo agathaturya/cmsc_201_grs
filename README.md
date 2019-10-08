@@ -17,3 +17,5 @@ Went over some GL related stuff, did a live-coding example
 ## [Lab 4 GRS](https://github.com/agathaturya/cmsc_201_grs/tree/master/lab4)
 
 ## [Lab 5 GRS](https://github.com/agathaturya/cmsc_201_grs/tree/master/lab5)
+
+## Creating a Symbolic Link
