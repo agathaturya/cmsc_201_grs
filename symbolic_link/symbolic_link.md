@@ -16,4 +16,4 @@ Make your life _so_ much easier when typing in long directory names. If I create
 Symbolic links are used in the **same way** as a regular directory or file. For example, if I wanted to get the file named `activity.py` from the `/afs/umbc.edu/users/a/g/agatha3/pub/201_grs/example/activity.py` directory, I can use my symbolic link. To copy the file, I would run this command: `cp grs_activities/example/activity.py .`. This command is identical to using this command without a symbolic link: `cp /afs/umbc.edu/users/a/g/agatha3/pub/201_grs/example/activity.py .`
 
 ## Notes
-[More in-depth explication](https://linuxize.com/post/how-to-create-symbolic-links-in-linux-using-the-ln-command/)
+[More in-depth explanation](https://linuxize.com/post/how-to-create-symbolic-links-in-linux-using-the-ln-command/)
