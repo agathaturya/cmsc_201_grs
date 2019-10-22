@@ -1,5 +1,5 @@
 # GRS Activity
-You were hired as a software engineer at Google. Your first task is to create a (better) word counter for Google Docs. You will finish a function called `word_count` that a previous Google software engineer started before they quit.
+You were hired as a software engineer at Google :computer:. Your first task is to finish a (better) word counter for Google Docs. You will finish a function called `word_count` that a previous Google software engineer started before they quit. Be sure to read the function header that the engineer left begind for you!
 
 ## Expected output
 
