@@ -46,17 +46,17 @@ Last login: Tue Apr 20 01:23:45 2019 from 123.45.67.890
 5. Using incorrect ssh login syntax (should be `ssh username@gl.umbc.edu` on Mac/linux, hostname should be `gl.umbc.edu` on windows)
 
 ## Connection timing out as soon as you sign into GL?
-On Mac/Linux 
+### On Mac/Linux 
 1. Be on-campus  
 2. use the eduroam wifi (username is your umbc email, password is umbc password) 
 3. use this command: `ssh username@linux4.umbc.edu`  
 
-On Windows  
-1. Be on-campus  
-2. use the eduroam wifi (username is your umbc email, password is umbc password) 
-3. use this hostname in PuTTy: `linux4.umbc.edu`  
+### On Windows
+1. Be on-campus
+2. use the eduroam wifi (username is your umbc email, password is umbc password)
+3. use this hostname in PuTTy: `linux4.umbc.edu`
 
-## Connection timing out as soon as you sign into GL __and__ you're off-campus?  
+## Connection timing out as soon as you sign into GL __and__ you're off-campus?
 Submit a DoIT ticket and good luck :(
 
 
