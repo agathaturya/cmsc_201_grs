@@ -48,11 +48,11 @@ Last login: Tue Apr 20 01:23:45 2019 from 123.45.67.890
 ## Connection timing out as soon as you sign into GL and you're on-campus?
 ### On Mac/Linux 
 1. use the eduroam wifi (username is your umbc email, password is your umbc password) 
-2. use this command: `ssh username@linux4.umbc.edu`  
+2. use this command: `ssh username@linux4.gl.umbc.edu`  
 
 ### On Windows
 1. use the eduroam wifi (username is your umbc email, password is your umbc password)
-2. use this hostname in PuTTy: `linux4.umbc.edu`
+2. use this hostname in PuTTy: `linux4.gl.umbc.edu`
 
 ## Connection timing out as soon as you sign into GL __and__ you're off-campus?
 Submit a DoIT ticket and good luck :(
