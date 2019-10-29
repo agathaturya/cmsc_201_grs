@@ -22,4 +22,8 @@ Went over some GL related stuff, did a live-coding example
 
 ## [Lab 6 GRS](https://github.com/agathaturya/cmsc_201_grs/tree/master/lab6)
 
-## [Lab 7 GRS](https://github.com/agathaturya/cmsc_201_grs/tree/master/lab7)
+## [Lab 7 GRS](https://github.com/agathaturya/cmsc_201_grs/tree/master/lab7)  
+
+## [Lab 8 GRS](https://github.com/agathaturya/cmsc_201_grs/tree/master/lab8)
+
+
