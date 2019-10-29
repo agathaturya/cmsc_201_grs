@@ -1,5 +1,5 @@
 ## Lab 8 GRS Activity Description
-You are currently taking linear algebra, and are annoyed with the number of matricies you have to make. Using your python and 2D list knowledge, you decided to create a program to create matricies for your homework assignment.
+You are currently taking linear algebra, and are annoyed with the number of matricies you have to make. Using your python and 2D list knowledge, you decide to create a program that creates matricies for your homework assignment.
 Read the function header to get a better understanding of what this entails.
 
 ## Sample output and test cases
