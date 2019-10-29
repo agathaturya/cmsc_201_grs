@@ -21,7 +21,6 @@ Read the function header to get a better understanding of what this entails.
 `create_list(0,0,0,0,0)`  
 \[an empty list]   
 
-
 `create_list(4, 3, -1, -4, -1)`    
 
 -1 -2 -3 -4  
