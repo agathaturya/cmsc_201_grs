@@ -1,5 +1,5 @@
 # GRS Activity
-The function `substring()` is a recursive function that loops through `string`, and finds all occurences of `s`. Note: `substring` is case-sensitive.
+The function `substring()` is a recursive function that goes through `string`, and finds all occurences of `s`. Note: `substring` is case-sensitive.
 
 ## Sample output and test cases
 
@@ -7,7 +7,7 @@ The function `substring()` is a recursive function that loops through `string`, 
 Found a at index 2  
 Found a at index 5  
 
-`substring('', '', 0)` . 
+`substring('', '', 0)`   
 [no output]  
 
 `substring('a', 'Agatha', 0)`  
@@ -18,4 +18,4 @@ Found dogs at index 0
 Found dogs at index 5  
 Found dogs at index 10  
 Found dogs at index 15  
-Found dogs at index 20 . 
+Found dogs at index 20  
