@@ -7,4 +7,4 @@
 5. Convert 128<sub>10</sub> to binary
 
 ### Challenge
-Write a python function that converts a decimal number to **any** number base **recursively**. Some parameters may include `curr_number, remainders, and base`. This function will return a number converted to the passed base.
+Write a python function that converts a decimal number to **any** number base **recursively**. Some parameters may include `curr_number`, `remainders`, and `base`. This function will return a number converted to the passed base.
