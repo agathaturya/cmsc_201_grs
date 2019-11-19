@@ -28,4 +28,6 @@ Went over some GL related stuff, did a live-coding example
 
 ## [Lab 9 GRS](https://github.com/agathaturya/cmsc_201_grs/tree/master/lab9)
 
+## [Lab 10 GRS](https://github.com/agathaturya/cmsc_201_grs/tree/master/lab10/)
+
 
