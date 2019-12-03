@@ -30,7 +30,7 @@ Went over some GL related stuff, did a live-coding example
 
 ## [Lab 10 GRS](https://github.com/agathaturya/cmsc_201_grs/tree/master/lab10/)
 
-## [Lab 11 (last GRS :tada: :balloon: :champagne:)](https://github.com/agathaturya/cmsc_201_grs/tree/master/lab11/)
+## [Lab 11 (last GRS :tada: :balloon: :champagne:)](https://github.com/agathaturya/cmsc_201_grs/blob/master/lab11/finals_resources.md)
 [Review Guide Word Document](https://github.com/agathaturya/cmsc_201_grs/blob/master/lab11/review_guide.docx)  
 [Review Guide PDF](https://github.com/agathaturya/cmsc_201_grs/blob/master/lab11/review_guide.pdf)    
 
