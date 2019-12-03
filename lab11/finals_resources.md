@@ -1,4 +1,4 @@
-## Here are some resources for final studying. 
+## Resources for final studying. 
 ### Reminder: some of these are **non-exhaustive** and the curriculum has changed over the years. Use your discretion.
 * [Course websites from past semesters](https://www.csee.umbc.edu/courses/201/)  
 * [Fall 2017 exam review guides](https://www.csee.umbc.edu/courses/201/fall17/exams.shtml)   
