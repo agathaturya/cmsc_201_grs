@@ -30,4 +30,5 @@ Went over some GL related stuff, did a live-coding example
 
 ## [Lab 10 GRS](https://github.com/agathaturya/cmsc_201_grs/tree/master/lab10/)
 
+## [Lab 11 (last GRS :tada: :balloon: :champagne:)]
 
