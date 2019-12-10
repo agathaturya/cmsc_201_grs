@@ -1,5 +1,5 @@
 # CMSC 201 GRS Material (Section 32) :sparkles:
-I'll upload all my material (slides, live-coding, practice problems, etc) here before or after GRS. Submit a pull request if you have any suggestions!
+I'll upload all my material (slides, live-coding, practice problems, etc) here before or after GRS.  
 
 ## General things
 [GL Troubleshooting](https://github.com/agathaturya/cmsc_201_grs/blob/master/lab2/gl_troubleshooting.md)  
