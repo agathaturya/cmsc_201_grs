@@ -33,6 +33,6 @@ Went over some GL related stuff, did a live-coding example
 ## [Lab 11 (last GRS :tada: :balloon: :champagne:)](https://github.com/agathaturya/cmsc_201_grs/blob/master/lab11/finals_resources.md)
 [Review Guide Word Document](https://github.com/agathaturya/cmsc_201_grs/blob/master/lab11/review_guide.docx)  
 [Review Guide PDF](https://github.com/agathaturya/cmsc_201_grs/blob/master/lab11/review_guide.pdf)
-[Answers](https://github.com/agathaturya/cmsc_201_grs/blob/master/lab11/CMSC%20201_Worksheet2%20_Final_Answers.docx)
+[Answers PDF](https://github.com/agathaturya/cmsc_201_grs/blob/master/lab11/CMSC%20201_Worksheet2%20_Final_Answers.pdf)
 
 
